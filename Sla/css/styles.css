@@ -1,0 +1,28 @@
+body{
+    background-image: url(../img/vapowave.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#site{
+    height: 100%;
+    width: 100%;
+}
+#header {
+    height: 30px;
+    width: 100%;
+    background: rgb(255,153,0);
+    background: linear-gradient(90deg, #ff9900 0%, #7000ff 100%);
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+#box-featured {
+    
+
+}
+#box {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    
+}
